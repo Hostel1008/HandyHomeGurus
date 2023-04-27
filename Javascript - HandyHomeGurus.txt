@@ -1,0 +1,1 @@
+// Add any JavaScript functionality, such as a mobile menu toggle or animations

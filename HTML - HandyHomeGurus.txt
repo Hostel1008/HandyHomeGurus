@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <script src="scripts.js" defer></script>
+  <title>Handy Home Gurus</title>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1 class="logo">Handy Home Gurus</h1>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#newsletter">Newsletter</a></li>
+          <li><a href="#guides">Guides</a></li>
+          <li><a href="#blog">Blog</a></li>
+          <li><a href="#about">About Us</a></li>
+          <li><a href="#faq">FAQ</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="home">
+      <!-- Add your homepage content here -->
+    </section>
+
+    <section id="newsletter">
+      <!-- Add your newsletter content here -->
+    </section>
+
+    <section id="guides">
+      <!-- Add your guides content here -->
+    </section>
+
+    <section id="blog">
+      <!-- Add your blog content here -->
+    </section>
+
+    <section id="about">
+      <!-- Add your about us content here -->
+    </section>
+
+    <section id="faq">
+      <!-- Add your FAQ content here -->
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2023 Handy Home Gurus. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
